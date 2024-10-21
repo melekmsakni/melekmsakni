@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melekmsakni
 - 👀 I’m interested in computer Science and fitness
-- 🌱 I’m currently learning Web3 technologies
+- 🌱 I’m currently working as Data engineer
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me msaknimelek2@gmail.com
 
